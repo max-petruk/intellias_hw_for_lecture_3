@@ -2,3 +2,4 @@
 2. bananas
 3. bread
 4. carrots
+5. cottage cheese
