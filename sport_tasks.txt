@@ -1,3 +1,6 @@
 1. swimming
-1. boxing
-2. stretching
+2. boxing
+3. stretching
+4. wrestling
+5. stretching
+6. running
